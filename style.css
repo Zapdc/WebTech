@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+
+}
+
+.Wlogo{
+    display: flex;
+    justify-content: left;
+    width: 10rem;
+}
+
+.link{
+    display: flex;
+    padding: 10px 10px;
+    justify-content: end;
+    background-color: black;
+}
+
+nav > a{
+    color: white;
+    padding: 0 10px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    padding: 0 5rem;
+    font-weight: bold;
+    font-size: 2rem;    
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+
+.page{
+    background-color: blue;
+}

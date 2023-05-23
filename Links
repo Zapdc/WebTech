@@ -5,3 +5,12 @@ itadori punch : https://youtu.be/goujelEkspw
 saitama punch : https://youtu.be/heJrfhhpkCc
 tanjiro swing : https://youtu.be/PPgn0S-1Lko
 fire breath : https://youtu.be/yaAxwgsygYk
+add circle 20cm
+fill circle in edit mode
+poke faces 
+extrude 
+add empty plain axes
+G move axes Front view
+add modifier array untick relative
+tick object select empty 
+increase count and z axis
